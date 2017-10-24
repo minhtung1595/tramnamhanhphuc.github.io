@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Oct 2017 14:50:11 at https://ngoc-thien.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ngoc-thien.com/ -O1 "D:\WEB\webwedding" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:50:24	Error: 	"Method Not Allowed" (405) at link https://ngoc-thien.com/xmlrpc.php (from https://ngoc-thien.com/)
+14:50:33	Warning: 	File not parsed, looks like binary: https://ngoc-thien.com/wp-content/plugins/wd-facebook-feed/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+14:50:33	Error: 	"Not Found" (404) at link https://ngoc-thien.com/wp-content/plugins/wd-facebook-feed/css/mCSB_buttons.png (from https://ngoc-thien.com/wp-content/cache/busting/1/wp-content-plugins-wd-facebook-feed-css-jquery.mCustomScrollbar-1.0.28.css)
+14:50:33	Warning: 	File not parsed, looks like binary: https://ngoc-thien.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+14:50:35	Warning: 	Found for https://ngoc-thien.com/wp-admin/
+14:50:35	Warning: 	File has moved from https://ngoc-thien.com/wp-admin/ to https://ngoc-thien.com/wp-login.php?redirect_to=https%3A%2F%2Fngoc-thien.com%2Fwp-admin%2F&reauth=1
+14:50:35	Error: 	"Not Found" (404) at link https://ngoc-thien.com/wp-admin/&reauth=1 (from https://ngoc-thien.com/wp-login.php?redirect_to=https%3A%2F%2Fngoc-thien.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 99 links scanned, 94 files written (3819468 bytes overall) [2877962 bytes received at 119915 bytes/sec], 1418421 bytes transferred using HTTP compression in 44 files, ratio 30%, 25.0 requests per connection
+(3 errors, 4 warnings, 0 messages)

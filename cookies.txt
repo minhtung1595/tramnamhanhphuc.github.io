@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ngoc-thien.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	PHPSESSID	ji6n3ohnb9gli5pon79g8ilpt2
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wp-settings-0	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wp-settings-time-0	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpress_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpress_sec_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpressuser_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpresspass_264a1b324100bab5523d47e5f2b23399	+
+ngoc-thien.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
